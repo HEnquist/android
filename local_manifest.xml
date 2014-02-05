@@ -9,14 +9,14 @@
   <remove-project name="CyanogenMod/android_packages_apps_Settings" />
   <remove-project name="CyanogenMod/android_packages_apps_Trebuchet" />
 
-  <!-- A500 JB4.3 -->
+  <!-- A200 JB4.3 -->
   <project path="build" name="loosethisskin/android_build" revision="cm-10.2" />
   <project path="frameworks/av" name="NonameROM/android_frameworks_av" />
   <project path="frameworks/base" name="loosethisskin/android_frameworks_base" revision="cm-10.2-sgt7" />
   <project path="packages/apps/Settings" name="loosethisskin/android_packages_apps_Settings" revision="cm-10.2-sgt7" />
   <project path="packages/apps/Trebuchet" name="loosethisskin/android_packages_apps_Trebuchet" revision="cm-10.2-sgt7" />
-  <project path="device/acer/a500" name="PlayOSS-Dev/android_device_acer_a500" revision="cm10.2" />
-  <project path="vendor/acer/a500" name="PlayOSS-Dev/vendor_acer_a500" />
-  <project path="kernel/acer/a500" name="PlayOSS-Dev/kernel_acer_a500" revision="jellybean4.3" />
+  <project path="device/acer/a200" name="HEnquist/android_device_acer_a200" revision="cm10.2" />
+  <project path="vendor/acer/a200" name="HEnquist/vendor_acer_a200" />
+  <project path="kernel/acer/a200" name="HEnquist/kernel_acer_a200" revision="jellybean4.3" />
 
 </manifest>
